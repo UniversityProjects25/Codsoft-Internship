@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3c4e6d57-1843-4990-a0b5-c81dc4957fbc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_Guessing_game_with_point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_Guessing_game_with_point.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +34,23 @@
     "Project.color": "354844",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "J:/pdpu/DSA/Internship Projects/Prodigy Infotech Internship"
+    "last_opened_file_path": "J:/pdpu/DSA/Internship Projects/Codsoft Tech Internhsip"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Task_1_Guessing_game_with_point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_1_Guessing_game_with_point" />
+      <module name="Codsoft Tech Internhsip" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task_1_Guessing_game_with_point" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -14,7 +14,7 @@ public class Task_1_Guessing_game_with_point {
             int rannum = random.nextInt(99) + 1;
             System.out.println("Enter the Guess Number");
             int t=0;
-            int point=0;
+            int point=80;
             System.out.println("No. of Attmepts are 8");
             int Attempt =8;
             while(rannum != t ){
