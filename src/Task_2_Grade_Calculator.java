@@ -17,27 +17,27 @@ public class Task_2_Grade_Calculator {
         float Averageper =(float)total/subject;
         System.out.println("Total Marks : "+ total);
         System.out.println("Average Percentage : " +Averageper );
-        System.out.println("Grade is : ");
+        System.out.print("Grade is : ");
         if(Averageper>=80){
-            System.out.println("O");
+            System.out.print("O");
         }
         else if(Averageper>=70 && Averageper<80){
-            System.out.println("A+");
+            System.out.print("A+");
         }
         else if(Averageper>=60 && Averageper<70){
-            System.out.println("A");
+            System.out.print("A");
         }
         else if(Averageper>=55 && Averageper<60){
-            System.out.println("B+");
+            System.out.print("B+");
         }
         else if(Averageper>=50 && Averageper<55){
-            System.out.println("B");
+            System.out.print("B");
         }
         else if(Averageper>=40 && Averageper<50){
-            System.out.println("C");
+            System.out.print("C");
         }
         else if(Averageper<40){
-            System.out.println("F");
+            System.out.print("F");
         }
     }
 }
