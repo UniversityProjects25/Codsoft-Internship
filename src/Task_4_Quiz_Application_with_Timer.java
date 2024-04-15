@@ -3,7 +3,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class Task_4_Quiz_Application_with_Timer{
-    private static final int TIME_LIMIT_PER_QUESTION = 20; // Time limit per question in seconds
+    private static final int TIME_LIMIT_PER_QUESTION = 10; // Time limit per question in seconds
     private static final int TOTAL_QUESTIONS = 5; // Total number of questions in the quiz
     private static int currentQuestion = 0; // Track the current question number
     private static int score = 0; // Track the user's score
