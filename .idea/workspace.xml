@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4e6d57-1843-4990-a0b5-c81dc4957fbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_3_ATM_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_4_Quiz_Application_with_Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_5_Student_Course_Registration_System.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_2_Grade_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_2_Grade_Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Project.color&quot;: &quot;354844&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;J:/pdpu/DSA/Internship Projects/Codsoft Tech Internhsip&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "354844",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "J:/pdpu/DSA/Internship Projects/Codsoft Tech Internhsip"
   }
-}</component>
-  <component name="RunManager" selected="Application.Task_3_ATM_Interface">
+}]]></component>
+  <component name="RunManager">
     <configuration name="Task_1_Guessing_game_with_point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_1_Guessing_game_with_point" />
       <module name="Codsoft Tech Internhsip" />
